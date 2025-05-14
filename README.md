@@ -7,7 +7,7 @@
 
 - 📫 How to reach **Python and Linux**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LOLIZIETA](https://github.com/LOLIZIETA)
+- 👨‍💻 All of my projects are available at [https://github.com/LOLIZIETA](https://github.com/baktiprasisto)
 
 - 💬 Ask me about **Pyhton, arduino, or linux**
 
