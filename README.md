@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anugerah Bakti Prasisto</h1>
-<h3 align="center">I'm an Informatics student currently learning and exploring the world of programming. My main focus is on Python, along with some frontend basics like HTML and CSS. I also enjoy editing videos with Adobe Premiere 🎬.</h3>
+<h3 align="center">I am an Informatics Engineering student who enjoys exploring technology, coding for hobbies or assignments, and occasionally getting creative with design and video editing. 🎬.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lolizieta&label=Profile%20views&color=0e75b6&style=flat" alt="lolizieta" /> </p>
 
