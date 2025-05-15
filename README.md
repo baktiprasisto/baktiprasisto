@@ -5,11 +5,11 @@
 
 - 📌 A Machine learning project for classifying garbage images. This is also the topic of my thesis! [ML-KlasifikasiSampah](https://github.com/baktiprasisto/ML-KlasifikasiSampah)
 
-- 📫 How to reach **Python and Linux**
+- 📚 I enjoy exploring Python, Linux, HTML, CSS, and anything tech-related.
 
 - 👨‍💻 All of my projects are available at [https://github.com/LOLIZIETA](https://github.com/baktiprasisto)
 
-- 💬 Ask me about **Pyhton, arduino, or linux**
+- 💬 I'm still learning, but I enjoy talking about tech and exploring new tools and ideas.
 
 - 📫 How to reach me **anugerahbaktiprasisto@gmail.com**
 
