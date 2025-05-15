@@ -5,7 +5,7 @@
 
 - 📌 A Machine learning project for classifying garbage images. This is also the topic of my thesis! [ML-KlasifikasiSampah](https://github.com/baktiprasisto/ML-KlasifikasiSampah)
 
-- 📚 I enjoy exploring Python, Linux, HTML, CSS, and anything tech-related.
+- 📚 I enjoy exploring Python, HTML, CSS, and anything tech-related.
 
 - 👨‍💻 All of my projects are available at [https://github.com/LOLIZIETA](https://github.com/baktiprasisto)
 
