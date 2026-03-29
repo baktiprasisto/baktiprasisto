@@ -1,53 +1,51 @@
-<h1 align="center">Hey 👋, I'm Anugerah Bakti Prasisto</h1>
-
-###
-
-<h3 align="center">Informatics Engineering Student | Passionate about Tech, Coding, & Creative Design 🎬</h3>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-</div>
 
-###
+# Hi 👋, I'm Anugerah Bakti Prasisto
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+<h3>Informatics Engineering Student | Passionate about Tech, Coding, & Creative Design 🎬</h3>
 
-###
+<img src="https://komarev.com/ghpvc/?username=lolizieta&label=Profile%20views&color=0e75b6&style=flat-square" alt="lolizieta" />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=baktiprasisto&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=baktiprasisto&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+---
 
-###
+### 🚀 **About Me**
+
+| | |
+| --- | --- |
+| 📌 **Thesis Project** | [**ML-KlasifikasiSampah**](https://github.com/baktiprasisto/ML-KlasifikasiSampah): Machine learning project for classifying garbage images. |
+| 👨‍💻 **My Repositories** | Check out all my work at: [**github.com/baktiprasisto**](https://github.com/baktiprasisto) |
+| 🎓 **Interests** | Enjoy exploring technology, coding for hobbies/assignments, and video editing. |
+| 💬 **Tech Chat** | Always open to learning, talking about tech, and exploring new tools! |
+| 📫 **Contact Me** | For collaborations or questions: **anugerahbaktiprasisto@gmail.com** |
+
+---
+
+### 🤝 **Connect with me**
+
+<a href="https://linkedin.com/in/anugerah-bakti-prasisto-04422122b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://instagram.com/bakti_011/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://youtube.com/@baktiprasisto" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>&nbsp;
+<a href="https://facebook.com/profile.php?id=100006615318141" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://twitter.com/zonehell1" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+
+---
+
+### 🛠 **Languages and Tools**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
+<br>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />&nbsp;
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+
+---
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lolizieta&" alt="lolizieta" /></p>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baktiprasisto/baktiprasisto/output/pacman-contribution-graph-dark.svg">
@@ -55,4 +53,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/baktiprasisto/baktiprasisto/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+</div>
