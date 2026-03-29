@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Anugerah Bakti Prasisto
 
-<img height="200" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
+<img height="200" src="https://media.giphy.com/media/tPzuDa62ovAI/giphy.gif" alt="Ghibli Wave" />
 
 <h3>Informatics Engineering Student | Passionate about Tech, Coding, & Creative Design 🎬</h3>
 
