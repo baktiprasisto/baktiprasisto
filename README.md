@@ -2,6 +2,10 @@
 
 # Hi 👋, I'm Anugerah Bakti Prasisto
 
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
 <h3>Informatics Engineering Student | Passionate about Tech, Coding, & Creative Design 🎬</h3>
 
 <img src="https://komarev.com/ghpvc/?username=lolizieta&label=Profile%20views&color=0e75b6&style=flat-square" alt="lolizieta" />
