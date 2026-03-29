@@ -4,15 +4,20 @@ on:
   schedule:
     - cron: "0 0 * * *" # Berjalan setiap jam 12 malam
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Generate Pacman Graph
-        uses: abozanona/pacman-contribution-graph@master
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: lolizieta
+          github_user_name: baktiprasisto
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to Output Branch
