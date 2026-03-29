@@ -2,7 +2,7 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Berjalan setiap jam 12 malam
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -13,6 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      # Memaksa penggunaan Node 24 agar warning hilang
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - name: Generate Pacman Graph
         uses: abozanona/pacman-contribution-graph@main
@@ -21,7 +24,8 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        # Update ke v4 yang lebih baru dan stabil
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
